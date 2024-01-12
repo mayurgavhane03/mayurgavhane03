@@ -18,7 +18,7 @@
 
 💬 Ask me about **React, Node.js, Express.js, Firebase, AWS... or anything [here](https://github.com/mayurgavhane03/mayurgavhane03/issues)**
 
-⚡ Fun fact **I'm Funny**
+⚡ Fun fact : **I have skills, but I don't have a job.**
 
  </div>
  
