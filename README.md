@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a PixShare Mobile app**
+ 🔭 I’m currently working on **a Ocean Of Movies Web app**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
